@@ -1,5 +1,73 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Diouana!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "French audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "English subtitles",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "d1e7a985-e81c-46ae-b46e-b210d8e85be5"
+    },
+    {
+      "start_time": 14,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C'est ce matin là où tout a commencé. C'était à Dakar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "French audio",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "53dddc05-88a4-4598-b177-8615bbd3e6c7"
+    },
+    {
+      "start_time": 14,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It all started that morning, in Dakar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English subtitles",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "b4386ed4-f2e7-4343-8728-609a22f7ed88"
+    }
+  ],
   "set": "Default",
   "event_id": "4246d6cf-b81a-44be-9141-41ee55ca5716",
   "source_id": "4439a603-6d35-4bb5-add6-574b7dfe6d53"
